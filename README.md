@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DevMeley
-- I am currently a Product Designer
-- 👀 I’m interested in Python for Backend 
-- 🌱 I’m currently learning Basic python
+- I am an aspiring web developer
+- 👀 I’m interested in Java programming lang.
+- 🌱 I’m currently learning web development
 - 📫 How to reach me ayantolamonsurat@gmail.com
 
 <!---
