@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DevMeley
 - I am an aspiring Software Engineer
 - 👀 I’m interested in Java programming lang.
-- 🌱 I’m currently learning web development both frontend and backend
+- 🌱 I’m currently learning web development.
 - 📫 How to reach me ayantolamonsurat@gmail.com
 
 <!---
