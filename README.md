@@ -14,13 +14,13 @@
   <img src="https://img.shields.io/badge/Languages-English-dodgerblue" />
 </p>
 
-- 🔭 I’m currently working on my side projects
-- 🌱 I’m currently learning software architecture
-- 👯 I’m looking to collaborate on your open source projects
-- 💬 Ask me about C#
-- 📫 How to reach me: Contact part
+Hi there, I am Abisola Monsurat Ayantola, an undergraduate Software Engineering Student in her Final year,
+- 🔭 I’m currently building projects in software development (Frontend and Backend)
+- 👯 I’m looking to collaborate on open source projects
+- 💬 I love Java and will soon explore it possibilities
+- 📫 How to reach me: ayantolamonsurat@gmail.com
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I never thought I would become a .net programmer!
+- ⚡ Fun fact: i like watching documentary!
 
 <br>
 
